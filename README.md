@@ -20,11 +20,11 @@ npm install -g degit
 
 Then, scaffold your new project with:
 
-degit your-github-username/your-template-repository project-name
-cd project-name
+degit subtlemocha00/vite-react-template [project-name]
+cd [project-name]
 npm install
 
-Replace your-github-username/your-template-repository with the actual GitHub path to your template repository, and project-name with your desired project name.
+Replace [project-name] with your desired project name, no []'s.
 
 ## Running Your Project
 
