@@ -20,9 +20,9 @@ npm install -g degit
 
 Then, scaffold your new project with:
 
-degit subtlemocha00/vite-react-template [project-name]
-cd [project-name]
-npm install
+degit subtlemocha00/vite-react-template [project-name]  
+cd [project-name]  
+npm install  
 
 Replace [project-name] with your desired project name, no []'s.
 
